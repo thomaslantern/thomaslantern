@@ -4,21 +4,34 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
 
 - 🔭 I’m currently working on ...
   - Contributing to open source (currently contributing to https://github.com/ankitects/anki-manual)
-  - Going to **Athabasca University (part-time, honours student)**
+  - Gradually improving some of my school projects for general purpose use, such as:
+    - A music maker for NES (Nintendo Entertainment System) that lets you customize a song and then it builds you a NES cartridge file (.NES) you can download and listen to! (https://www.github.com/thomaslantern/nesmusicmaker)
+    - Writing (or editing) my documentation for the tutorials I made for how to learn ASM6502/NES programming, available here:
+      - (https://www.github.com/thomaslantern/nes-hello-world)
+      - (https://www.github.com/thomaslantern/nes-basic-graphics)
+      - (https://www.github.com/thomaslantern/nes-basic-sound)
+      - (https://www.github.com/thomaslantern/nes-basic-controls)
+      - (https://www.github.com/thomaslantern/nes-birthday-blast))
+          
 
+- 🌱 I’m currently learning ... so many things! Here's a few:
+  - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
   - Reading through _The Art of Computer Programming_ Vol II, by Donald Knuth (and apparently learning the MIX assembly language); **currently pg 11/515**
   - Reading through _The C Programming Language (2nd Edition)_, by Kernigan and Ritchie; **currently pg 144/261**
+
+- 📫 How to reach me: Send me an email! **shikisha at hotmail dot com** is my main e-mail address. I'd love to speak with you about all things code.
+
 <!--
 **thomaslantern/thomaslantern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
