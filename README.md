@@ -1,11 +1,19 @@
-### Hi there 👋
+### Hi there! 👋
 
+My name's Thomas, and I like to code. I love programming, computers, and learning about both.
+
+- 🔭 I’m currently working on ...
+  - Contributing to open source (currently contributing to https://github.com/ankitects/anki-manual)
+  - Going to **Athabasca University (part-time, honours student)**
+
+  - Reading through _The Art of Computer Programming_ Vol II, by Donald Knuth (and apparently learning the MIX assembly language); **currently pg 11/515**
+  - Reading through _The C Programming Language (2nd Edition)_, by Kernigan and Ritchie; **currently pg 144/261**
 <!--
 **thomaslantern/thomaslantern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
