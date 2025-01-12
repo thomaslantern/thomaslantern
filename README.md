@@ -22,7 +22,7 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
 
 **Finished Reading:**
   - **_The C Programming Language (2nd Edition)_, by Kernigan and Ritchie**; **(Oct 2023)**
-  - **_The Practice of Programming, Kernighan/Pike**; **(Dec 2024)**
+  - **_The Practice of Programming_, by Kernighan and Pike**; **(Dec 2024)**
 
 - 📫 How to reach me: Send me an email! **shikisha at hotmail dot com** is my main e-mail address. I'd love to speak with you about all things code.
 
