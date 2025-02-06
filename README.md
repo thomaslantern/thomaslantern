@@ -22,6 +22,7 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
   - Reading through **_Algorithms_, by Robert Sedgewick** (and apparently learning a bit of Pascal!); **(page 314/536)**
 
 **Finished Reading:**
+  - **_Effective Java Programming Language Guide_, by Joshua Bloch**; **(Feb 2025)**
   - **_JavaScript Pocket Reference_, by David Flanagan**; **(Jan 2025)**
   - **_The Practice of Programming_, by Kernighan and Pike**; **(Dec 2024)**
   - **_The C Programming Language (2nd Edition)_, by Kernigan and Ritchie**; **(Oct 2023)**
