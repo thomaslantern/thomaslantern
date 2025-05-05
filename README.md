@@ -19,7 +19,7 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
   - Reading through **_The Art of Computer Programming_ Vol I, by Donald Knuth** (and apparently learning the MIX assembly language); **(page 164/463)**
   - Reading through **_The Art of Computer Programming_ Vol II, by Donald Knuth**; **(page 346/515)**
   - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 106/570)**
-  - Reading through **_Algorithms_, by Robert Sedgewick** (and apparently learning a bit of Pascal!); **(page 412/536)**
+  - Reading through **_Algorithms_, by Robert Sedgewick** (and apparently learning a bit of Pascal!); **(page 414/536)**
 
 **Finished Reading:**
   - **_JavaScript For Web Professionals_, by Barrett, Livingston, and Brown**; **(Mar 2025)**
