@@ -17,9 +17,9 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!` e```
   - Reading through **_The Art of Computer Programming_ Vol I, by Donald Knuth** (and apparently learning the MIX assembly language); **(page 230/463)**
-  - Reading through **_The Art of Computer Programming_ Vol II, by Donald Knuth**; **(page 412/515)**
-  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 170/570)**
-  - Reading through **_Algorithms_, by Robert Sedgewick** (and apparently learning a bit of Pascal!); **(page 472/536)**
+  - Reading through **_The Art of Computer Programming_ Vol II, by Donald Knuth**; **(page 414/515)**
+  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 172/570)**
+  - Reading through **_Algorithms_, by Robert Sedgewick** (and apparently learning a bit of Pascal!); **(page 474/536)**
 
 **Finished Reading:**
   - **_JavaScript For Web Professionals_, by Barrett, Livingston, and Brown**; **(Mar 2025)**
