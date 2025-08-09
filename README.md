@@ -4,8 +4,7 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
 
 - 🔭 I’m currently working on ...
   - Contributing to various freelance projects involving AI (prompt engineering, task review, etc.)
-  - Gradually improving some of my school projects for general purpose use, such as:
-    - A music maker for NES (Nintendo Entertainment System) that lets you customize a song and then it builds you a NES cartridge file (.NES) you can download and listen to! (https://www.github.com/thomaslantern/nesmusicmaker)
+  - Gradually working on some of my ASM6502/NES projects for general purpose use, such as:
     - Writing (or editing) my documentation for the tutorials I made for how to learn ASM6502/NES programming, available here:
       - (https://www.github.com/thomaslantern/nes-hello-world)
       - (https://www.github.com/thomaslantern/nes-basic-graphics)
