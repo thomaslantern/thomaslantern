@@ -3,7 +3,7 @@
 My name's Thomas, and I like to code. I love programming, computers, and learning about both.
 
 - 🔭 I’m currently working on ...
-  - Contributing to analyzing AI responses for DataAnnotation
+  - Contributing to various freelance projects involving AI (prompt engineering, task review, etc.)
   - Gradually improving some of my school projects for general purpose use, such as:
     - A music maker for NES (Nintendo Entertainment System) that lets you customize a song and then it builds you a NES cartridge file (.NES) you can download and listen to! (https://www.github.com/thomaslantern/nesmusicmaker)
     - Writing (or editing) my documentation for the tutorials I made for how to learn ASM6502/NES programming, available here:
