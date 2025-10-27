@@ -6,11 +6,12 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
   - Contributing to various freelance projects involving AI (prompt engineering, task review, etc.)
   - Gradually working on some of my ASM6502/NES projects for general purpose use, such as:
     - Writing (or editing) my documentation for the tutorials I made for how to learn ASM6502/NES programming, available here:
-      - (https://www.github.com/thomaslantern/nes-hello-world)
-      - (https://www.github.com/thomaslantern/nes-basic-graphics)
-      - (https://www.github.com/thomaslantern/nes-basic-sound)
-      - (https://www.github.com/thomaslantern/nes-basic-controls)
-      - (https://www.github.com/thomaslantern/nes-birthday-blast))
+      - **Hello World On the NES!** (https://www.github.com/thomaslantern/nes-hello-world)
+      - **NES Graphics Basics** (https://www.github.com/thomaslantern/nes-basic-graphics)
+      - **NES Sound Basics** (https://www.github.com/thomaslantern/nes-basic-sound)
+      - **NES Controller Basics** (https://www.github.com/thomaslantern/nes-basic-controls)
+      - **NES Birthday Blast (Demo Game)** (https://www.github.com/thomaslantern/nes-birthday-blast))
+      - **NES Background Collision Basics (COMING SOON!!!)**      - 
           
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
