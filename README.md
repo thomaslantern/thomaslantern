@@ -20,7 +20,7 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
   - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 392/570)**
 
 **Finished Reading:**
-  - **_ Effective C++ (Third Edition) by Scott Meyers_**; **(Oct 2025)**
+  - **_Effective C++ (Third Edition)_ by Scott Meyers** ; **(Oct 2025)**
   - **_The Art of Computer Programming_ Vol II, by Donald Knuth**; **(Aug 2025)**
   - **_Algorithms_, by Robert Sedgewick**; **(Aug 2025)**
   - **_JavaScript For Web Professionals_, by Barrett, Livingston, and Brown**; **(Mar 2025)**
