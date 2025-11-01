@@ -16,8 +16,8 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
-  - Reading through **_The Art of Computer Programming_ Vol I, by Donald Knuth** (and apparently learning the MIX assembly language); **(page 454/463)**
-  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 396/570)**
+  - Reading through **_The Art of Computer Programming_ Vol I, by Donald Knuth** (and apparently learning the MIX assembly language); **(page 456/463)**
+  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 398/570)**
 
 **Finished Reading:**
   - **_Effective C++ (Third Edition)_ by Scott Meyers**; **(Oct 2025)**
