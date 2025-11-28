@@ -10,13 +10,13 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
       - **NES Graphics Basics** (https://www.github.com/thomaslantern/nes-basic-graphics)
       - **NES Sound Basics** (https://www.github.com/thomaslantern/nes-basic-sound)
       - **NES Controller Basics** (https://www.github.com/thomaslantern/nes-basic-controls)
-      - **NES Birthday Blast (Demo Game)** (https://www.github.com/thomaslantern/nes-birthday-blast))
-      - **NES Background Collision Basics (COMING SOON!!!)**      - 
+      - **NES Birthday Blast (Demo Game)** (https://www.github.com/thomaslantern/nes-birthday-blast)
+      - **NES Background Collision Basics** (https://github.com/thomaslantern/nes-basic-collisions)
           
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
-  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 448/570)**
+  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 450/570)**
 
 **Finished Reading:**
   - **_The Art of Computer Programming Vol I_, by Donald Knuth**; **(Nov 2025)**
