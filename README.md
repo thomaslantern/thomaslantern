@@ -16,7 +16,7 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
-  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 546/570)**
+  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 548/570)**
 
 **Finished Reading:**
   - **_The C++ Programming Language (Second Edition)_, by Bjarne Stroustrup**; **(Dec 2025)**
