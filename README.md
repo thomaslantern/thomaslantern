@@ -19,7 +19,8 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
   - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 550/570)**
 
 **Finished Reading:**
-  - **_The C++ Programming Language (Second Edition)_, by Bjarne Stroustrup**; **(Dec 2025)**
+  - **_Java Cookbook (Third Edition)_, by Ian F. Darwin**; **(Dec 2025)**
+  - **_The C++ Programming Language (Second Edition)_, by Bjarne Stroustrup**; **(Jan 2026)**
   - **_The Art of Computer Programming Vol I_, by Donald Knuth**; **(Nov 2025)**
   - **_Effective C++ (Third Edition)_ by Scott Meyers**; **(Oct 2025)**
   - **_The Art of Computer Programming Vol II_, by Donald Knuth**; **(Aug 2025)**
