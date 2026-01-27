@@ -16,9 +16,10 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
-  - Reading through **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(page 570/570)**
-
+  - Reading through **_Game Boy Coding Adventure, by Maximilien Dagois**; **(page 3/409)**
+  
 **Finished Reading:**
+  - **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(Jan 2026)**
   - **_Java Cookbook (Third Edition)_, by Ian F. Darwin**; **(Jan 2026)**
   - **_The C++ Programming Language (Second Edition)_, by Bjarne Stroustrup**; **(Dec 2025)**
   - **_The Art of Computer Programming Vol I_, by Donald Knuth**; **(Nov 2025)**
