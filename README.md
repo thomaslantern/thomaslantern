@@ -16,7 +16,7 @@ My name's Thomas, and I like to code. I love programming, computers, and learnin
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
-  - Reading through **_Game Boy Coding Adventure_, by Maximilien Dagois**; **(page 42/409)**
+  - Reading through **_Game Boy Coding Adventure_, by Maximilien Dagois**; **(page 44/409)**
   
 **Finished Reading:**
   - **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(Jan 2026)**
