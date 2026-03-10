@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name's Thomas, and I like to code. I love programming, computers, and learning about both.
+I'm Thomas, and I like to code. I love programming, computers, and learning about both.
 
 - 🔭 I’m currently working on ...
   - Contributing to various freelance projects involving AI (prompt engineering, task review, etc.)
