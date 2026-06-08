@@ -2,8 +2,8 @@
 
 I'm Thomas, and I like to code. I love programming, computers, and learning about both.
 
-- 🔭 I’m currently working on ...
-  - Contributing to various freelance projects involving AI (prompt engineering, task review, etc.)
+- Things I’m currently working on ...
+  - Contributing to various contracts and/or freelance projects involving AI (prompt engineering/data annotation)
   - Gradually working on some of my ASM6502/NES projects for general purpose use, such as:
     - Writing (or editing) my documentation for the tutorials I made for how to learn ASM6502/NES programming, available here:
       - **Hello World On the NES!** (https://www.github.com/thomaslantern/nes-hello-world)
@@ -16,7 +16,7 @@ I'm Thomas, and I like to code. I love programming, computers, and learning abou
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
-  - Reading through **_Game Boy Coding Adventure_, by Maximilien Dagois**; **(page 260/409)**
+  - Reading through **_Game Boy Coding Adventure_, by Maximilien Dagois**; **(page 262/409)**
   
 **Finished Reading:**
   - **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(Jan 2026)**
