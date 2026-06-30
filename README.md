@@ -1,4 +1,4 @@
--### Hi there! 👋
+- ### Hi there! 👋
 
 I'm Thomas, and I like to code. I love programming, computers, and learning about both.
 
