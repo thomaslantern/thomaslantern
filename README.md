@@ -16,9 +16,10 @@ I'm Thomas, and I like to code. I love programming, computers, and learning abou
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
-  - Reading through **_Game Boy Coding Adventure_, by Maximilien Dagois**; **(page 408/409)**
+  - Reading through **_More Effective C++_, by Scott Meyers**; **(page xii/294)**
   
 **Finished Reading:**
+  - **_Game Boy Coding Adventure_, by Maximilien Dagois**; **(Aug 2026)**
   - **_The Art of Computer Programming_ Vol III, by Donald Knuth**; **(Jan 2026)**
   - **_Java Cookbook (Third Edition)_, by Ian F. Darwin**; **(Jan 2026)**
   - **_The C++ Programming Language (Second Edition)_, by Bjarne Stroustrup**; **(Dec 2025)**
