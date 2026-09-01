@@ -16,7 +16,7 @@ I'm Thomas, and I like to code. I love programming, computers, and learning abou
 
 - 🌱 I’m currently learning ... so many things! Here's a few:
   - Going to **Athabasca University (part-time, honours student)**. I've loved every course so far. It's been a great experience!
-  - Reading through **_More Effective C++_, by Scott Meyers**; **(page 22/294)**
+  - Reading through **_More Effective C++_, by Scott Meyers**; **(page 24/294)**
   
 **Finished Reading:**
   - **_Game Boy Coding Adventure_, by Maximilien Dagois**; **(Aug 2026)**
